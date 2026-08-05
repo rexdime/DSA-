@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/rexdime/DSA-/tree/master/0035-search-insert-position) |
 | [0283-move-zeroes](https://github.com/rexdime/DSA-/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rexdime/DSA-/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/rexdime/DSA-/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
