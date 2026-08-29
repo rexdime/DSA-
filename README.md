@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rexdime/DSA-/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/rexdime/DSA-/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/rexdime/DSA-/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/rexdime/DSA-/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/rexdime/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rexdime/DSA-/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/rexdime/DSA-/tree/master/0058-length-of-last-word) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
