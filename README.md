@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rexdime/DSA-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rexdime/DSA-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/rexdime/DSA-/tree/master/0575-distribute-candies) |
 | [0977-squares-of-a-sorted-array](https://github.com/rexdime/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rexdime/DSA-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rexdime/DSA-/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0575-distribute-candies](https://github.com/rexdime/DSA-/tree/master/0575-distribute-candies) |
 ## Divide and Conquer
 |  |
 | ------- |
