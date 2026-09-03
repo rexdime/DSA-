@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rexdime/DSA-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/rexdime/DSA-/tree/master/0575-distribute-candies) |
+| [0724-find-pivot-index](https://github.com/rexdime/DSA-/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/rexdime/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/rexdime/DSA-/tree/master/0724-find-pivot-index) |
 ## Queue
 |  |
 | ------- |
