@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/rexdime/DSA-/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/rexdime/DSA-/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/rexdime/DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rexdime/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/rexdime/DSA-/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/rexdime/DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rexdime/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Math
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rexdime/DSA-/tree/master/0055-jump-game) |
+## Simulation
+|  |
+| ------- |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rexdime/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
 <!---LeetCode Topics End-->
