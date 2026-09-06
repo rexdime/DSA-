@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/rexdime/DSA-/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/rexdime/DSA-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rexdime/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0575-distribute-candies](https://github.com/rexdime/DSA-/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/rexdime/DSA-/tree/master/0724-find-pivot-index) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/rexdime/DSA-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rexdime/DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/rexdime/DSA-/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rexdime/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/rexdime/DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rexdime/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rexdime/DSA-/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/rexdime/DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
 | ------- |
@@ -50,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/rexdime/DSA-/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/rexdime/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
@@ -111,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rexdime/DSA-/tree/master/2161-partition-array-according-to-given-pivot) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rexdime/DSA-/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rexdime/DSA-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
