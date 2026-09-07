@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/rexdime/DSA-/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rexdime/DSA-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/rexdime/DSA-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rexdime/DSA-/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rexdime/DSA-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/rexdime/DSA-/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rexdime/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/rexdime/DSA-/tree/master/0075-sort-colors) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rexdime/DSA-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
