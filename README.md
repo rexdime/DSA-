@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rexdime/DSA-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rexdime/DSA-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/rexdime/DSA-/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/rexdime/DSA-/tree/master/0367-valid-perfect-square) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rexdime/DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/rexdime/DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/rexdime/DSA-/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/rexdime/DSA-/tree/master/0367-valid-perfect-square) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rexdime/DSA-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rexdime/DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
